@@ -1,20 +1,81 @@
-<<<<<<< HEAD
-# segresmart_app
+SegreSmart 🚮♻️
 
-A new Flutter project.
+SegreSmart is a smart waste segregation and monitoring prototype built with Flutter.
+The app helps users track nearby bins, earn rewards for correct segregation, and receive alerts when bins are almost full.
 
-## Getting Started
+This project was developed as a prototype/demo for smart city waste management systems.
 
-This project is a starting point for a Flutter application.
+✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+📊 Dashboard Summary – total bins, reward points, and alerts.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🗑️ Live Bin Monitoring – view organic, recyclable, and hazardous bins.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# segresmart_app
->>>>>>> cca50876ba39d0e59eb1b23c5bd6da6d4937d713
+⏱️ Auto Refresh Simulation – bins auto-fill every 10 seconds to mimic IoT sensors.
+
+⭐ Rewards System – earn points for correct disposal.
+
+🚨 Alerts – notifications when bins are nearly full.
+
+🌐 Cross-platform – works on Android, Web, and Emulator.
+
+📱 Screenshots
+
+(Add screenshots here after running the app, for example:)
+
+Dashboard	Rewards	Alerts
+
+	
+	
+🚀 Getting Started
+Prerequisites
+
+Install Flutter SDK
+ (version 3.19+ recommended)
+
+Android Studio / VS Code with Flutter & Dart plugins
+
+Emulator or physical Android device
+
+Clone the repository
+git clone https://github.com/Aniket8983-arch/segresmart_app.git
+cd segresmart_app
+
+Install dependencies
+flutter pub get
+
+Run on emulator or device
+flutter run
+
+Build release APK
+flutter build apk --release
+
+
+The APK will be available at:
+
+build/app/outputs/flutter-apk/app-release.apk
+
+🌐 Live Demo (optional)
+
+You can also try the app in your browser:
+👉 SegreSmart Web Demo
+
+(Or via Appetize.io
+ for a virtual phone experience.)
+
+🏗️ Tech Stack
+
+Flutter (Frontend UI, cross-platform)
+
+Provider (State management)
+
+Fake API Service (Simulates IoT sensor data)
+
+🤝 Contributing
+
+Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to improve.
+
+📄 License
+
+This project is open source under the MIT License
+.
