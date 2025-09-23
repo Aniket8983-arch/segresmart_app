@@ -21,9 +21,6 @@ This project was developed as a prototype/demo for smart city waste management s
 
 📱 Screenshots
 
-(Add screenshots here after running the app, for example:)
-
-Dashboard	Rewards	Alerts
 
 	
 	
@@ -55,7 +52,7 @@ The APK will be available at:
 
 build/app/outputs/flutter-apk/app-release.apk
 
-🌐 Live Demo (optional)
+🌐 Live Demo 
 
 You can also try the app in your browser:
 👉 SegreSmart Web Demo
@@ -75,7 +72,7 @@ Fake API Service (Simulates IoT sensor data)
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to improve.
 
-📄 License
+
 
 This project is open source under the MIT License
 .
