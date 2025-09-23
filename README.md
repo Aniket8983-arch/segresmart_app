@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # segresmart_app
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# segresmart_app
+>>>>>>> cca50876ba39d0e59eb1b23c5bd6da6d4937d713
