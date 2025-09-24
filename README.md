@@ -18,11 +18,6 @@ This project was developed as a prototype/demo for smart city waste management s
 🚨 Alerts – notifications when bins are nearly full.
 
 🌐 Cross-platform – works on Android, Web, and Emulator.
-
-📱 Screenshots
-
-
-	
 	
 🚀 Getting Started
 Prerequisites
@@ -52,13 +47,6 @@ The APK will be available at:
 
 build/app/outputs/flutter-apk/app-release.apk
 
-🌐 Live Demo 
-
-You can also try the app in your browser:
-👉 SegreSmart Web Demo
-
-(Or via Appetize.io
- for a virtual phone experience.)
 
 🏗️ Tech Stack
 
